@@ -1,0 +1,36 @@
+Licencia de Uso No Comercial, Atribución y Compartir Igual (BY-NC-SA)
+
+Copyright (c) [Año] [Tu Nombre o Nombre del Proyecto]
+
+Se concede permiso gratuito a cualquier persona que obtenga una copia de este
+software y los archivos de documentación asociados (el "Software"), para usar,
+copiar, modificar y redistribuir el Software, sujeto a las siguientes condiciones:
+
+1. Uso No Comercial
+   El Software no podrá ser utilizado total o parcialmente con fines comerciales,
+   incluyendo pero no limitado a la venta, licenciamiento, arrendamiento,
+   ofrecimiento como servicio de pago (SaaS) u otros medios de lucro directo o
+   indirecto, sin el permiso expreso por escrito del autor.
+
+2. Atribución
+   Toda copia o redistribución del Software, con o sin modificaciones, debe
+   incluir un aviso visible de atribución al autor original, así como este texto
+   de licencia.
+
+3. Compartir Igual
+   Si se realizan modificaciones o trabajos derivados basados en el Software,
+   dichos trabajos deberán ser distribuidos únicamente bajo los mismos términos
+   de esta licencia.
+
+4. Exclusión de Garantía
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+   EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE
+   COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR O
+   NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES SERÁN RESPONSABLES
+   POR RECLAMACIONES, DAÑOS U OTRAS RESPONSABILIDADES, YA SEA
+   EN UNA ACCIÓN CONTRACTUAL, AGRAVIO O CUALQUIER OTRA CAUSA,
+   DERIVADAS DEL USO DEL SOFTWARE.
+
+---
+Esta licencia es una adaptación inspirada en Creative Commons BY-NC-SA
+para ser aplicada en software.
