@@ -34,7 +34,7 @@ ___
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 📦shape_counter
  ┣ 📂data
  ┣ 📂dataset
@@ -56,7 +56,7 @@ ___
  ┃ ┗ 📜train.py
  ┣ 📜config.py
  ┗ 📜main.py
-
+```
 ___
 
  ## Ejecución del proyecto
